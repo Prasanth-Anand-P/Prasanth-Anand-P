@@ -21,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prasanth-anand-p&show_icons=true&locale=en" alt="prasanth-anand-p" height="200" width="450"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanth-anand-p&show_icons=true&locale=en&layout=compact" alt="prasanth-anand-p" height="200" width="450"/></p>
+
+[![@prasanthanandp's Holopin board](https://holopin.me/prasanthanandp)](https://holopin.io/@prasanthanandp)
+
