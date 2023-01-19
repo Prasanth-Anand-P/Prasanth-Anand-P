@@ -21,12 +21,13 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanth-anand-p&show_icons=true&locale=en&layout=compact" alt="prasanth-anand-p" height="200"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanth-anand-p&show_icons=true&locale=en&layout=compact" alt="prasanth-anand-p" width="450"/></p>
+
+<br> <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanth-anand-p&" alt="prasanth-anand-p" width="450"/></p><br> 
+<br> 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanth-anand-p&" alt="prasanth-anand-p" width="500"/></p>
 
- <br />  <br />
 
 [![@prasanthanandp's Holopin board](https://holopin.me/prasanthanandp)](https://holopin.io/@prasanthanandp)
 
