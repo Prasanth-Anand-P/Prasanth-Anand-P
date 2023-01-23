@@ -21,8 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prasanth-anand-p&show_icons=true&locale=en&theme=dark" alt="prasanth-anand-p" /></p>
 <br>
-<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanth-anand-p&theme=dark" alt="prasanth-anand-p" style="max-width: 100%;"/>
-</p>
+<!-- <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanth-anand-p&theme=dark" alt="prasanth-anand-p" style="max-width: 100%;"/>
+</p> -->
 <img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=prasanth-anand-p&theme=dracula"/>
 
 
