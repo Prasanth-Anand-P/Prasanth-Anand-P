@@ -25,7 +25,7 @@
 </p> -->
 <img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=prasanth-anand-p&theme=dracula"/>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanth-anand-p&" alt="prasanth-anand-p" /></p>
 
 
 [![@prasanthanandp's Holopin board](https://holopin.me/prasanthanandp)](https://holopin.io/@prasanthanandp)
